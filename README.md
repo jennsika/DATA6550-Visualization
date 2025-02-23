@@ -3,7 +3,7 @@
 ## Code 
 Harper Kates: https://colab.research.google.com/drive/17VcOoolDwPWGxbObFl0Jk-wSkhNpIqla?usp=sharing <br />
 Himani Patel: <br />
-Jennifer Sika: https://colab.research.google.com/drive/1nxunPJE7smU4O2GSJJNQRb0jZ-5EklJP?usp=sharing <br />
+[Jennifer Sika](https://colab.research.google.com/drive/1nxunPJE7smU4O2GSJJNQRb0jZ-5EklJP?usp=sharing):  <br />
 <br />
 
 ## Data
