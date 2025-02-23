@@ -4,7 +4,7 @@
 <br />
 
 ## Data
-https://www.kaggle.com/c/titanic/data 
+https://www.kaggle.com/c/titanic/data <br />
 
 ## Summary
 <br />
