@@ -1,9 +1,9 @@
 # DATA6550-Visualization
 
 ## Code 
-[Harper Kates](https://colab.research.google.com/drive/17VcOoolDwPWGxbObFl0Jk-wSkhNpIqla?usp=sharing) <br />
-Himani Patel <br />
-[Jennifer Sika](https://colab.research.google.com/drive/1nxunPJE7smU4O2GSJJNQRb0jZ-5EklJP?usp=sharing)  <br />
+- [Harper Kates](https://colab.research.google.com/drive/17VcOoolDwPWGxbObFl0Jk-wSkhNpIqla?usp=sharing) <br />
+- Himani Patel <br />
+- [Jennifer Sika](https://colab.research.google.com/drive/1nxunPJE7smU4O2GSJJNQRb0jZ-5EklJP?usp=sharing)  <br />
 <br />
 
 ## Data
@@ -13,7 +13,7 @@ Himani Patel <br />
 <br />
 
 ## Report
-[Analysis](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EWklZxbAL8lMr4nTbtRTh78BEl9jnmuPmXaAnrwIYGzRMw?e=u2gNEt) 
+Our analysis and discussion of each visualization can be found by clicking [here.](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EWklZxbAL8lMr4nTbtRTh78BEl9jnmuPmXaAnrwIYGzRMw?e=u2gNEt) 
 <br />
 
 ## Collaboration
