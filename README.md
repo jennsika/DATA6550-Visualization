@@ -19,6 +19,6 @@ Our analysis and discussion for each visualization can be accessed by clicking [
 <br />
 
 ## Collaboration
-This project is a collaborative effort, documenation of our discussions can be found below:
+This project is a collaborative effort, documenation of our discussions can be found below: <br />
 Week A <br />
 Week B <br />
