@@ -1,14 +1,17 @@
 # DATA6550-Visualization
 
 ## Code 
+https://colab.research.google.com/drive/17VcOoolDwPWGxbObFl0Jk-wSkhNpIqla?usp=sharing
 <br />
 
 ## Data
 https://www.kaggle.com/c/titanic/data 
 <br />
 
-## Summary
+## Report
+https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EWklZxbAL8lMr4nTbtRTh78BEl9jnmuPmXaAnrwIYGzRMw?e=u2gNEt
 <br />
 
 ## Collaboration
-<br />
+Week A <br />
+Week B <br />
