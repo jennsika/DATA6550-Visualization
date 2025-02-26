@@ -20,5 +20,4 @@ Our analysis and discussion for each visualization can be accessed by clicking [
 
 ## Collaboration
 This project is a collaborative effort, documenation of our discussions can be found below: <br />
-- Week A <br />
-- Week B <br />
+- [AI Summary](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EUSiT9Wx3zNKsF-KsJMSWcABR5C2u9eTfLnlF2To6zAUjg?e=wWHJOC) <br />
