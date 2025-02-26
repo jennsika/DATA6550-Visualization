@@ -3,7 +3,7 @@
 ## Code 
 Individual notebooks can be found below:
 - [Harper Kates](https://colab.research.google.com/drive/17VcOoolDwPWGxbObFl0Jk-wSkhNpIqla?usp=sharing) <br />
-- Himani Patel <br />
+- [Himani Patel](https://colab.research.google.com/drive/1CS7qLkhPbCJ6A0ZYlhHpLb81ZWY4oZHl?pli=1#scrollTo=rWJH6UsDTKNz) <br />
 - [Jennifer Sika](https://colab.research.google.com/drive/1nxunPJE7smU4O2GSJJNQRb0jZ-5EklJP?usp=sharing)  <br />
 <br />
 
